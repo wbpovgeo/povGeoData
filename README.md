@@ -18,7 +18,7 @@ All indicators in the list follow a standard to help users find and compare opti
 - `spatial resolution`: Spatial resolution of the source data (e.g., 5km, 30", 0.5°...)
 - `temporal coverage`: Temporal coverage/extent of the source data (what range of years are available?)
 - `temporal resolution`: Temporal resolution of the source data (e.g., daily, monthly, annual...)
-- `reference`: Link to the index reference/paper/doi (e.g., "https://doi.org/10.1080/17538947.2024.2390454")
+- `reference`: Link to the data source reference/paper/doi (e.g., "https://doi.org/10.1080/17538947.2024.2390454")
 - `examples`: Link to relevant applications using the data (optional)
 
 ### GMD Spatial
