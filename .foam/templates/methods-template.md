@@ -4,6 +4,10 @@ foam_template:
   filepath: 'docs/methods/$FOAM_SLUG.md'
 ---
 
+---
+tags: methods
+---
+
 # ${1:$FOAM_TITLE}
 
 ## Checklist: remove when finished

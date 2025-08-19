@@ -4,6 +4,10 @@ foam_template:
   filepath: 'docs/data/$FOAM_SLUG.md'
 ---
 
+---
+tags: data
+---
+
 # ${1:$FOAM_TITLE}
 
 ## Checklist: remove when finished
