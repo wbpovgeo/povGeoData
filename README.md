@@ -9,17 +9,17 @@ Welcome to the curated respository of spatial data and methods relevant to the w
 We focus on spatial indicators and data sources that are useful for welfare analysis, easy to construct or access and are well documented. 
 All indicators in the list follow a standard to help users find and compare options. Each item has the following attributes:
 
--`theme`: Broad category of variable
--`name`: Variable name
--`source`: Data source
--`description`: Precise description of the variable
--`units`: Units of measurement for the variable
--`spatial coverage`: Spatial coverage of source data (what countries?)
--`spatial resolution`: Spatial resolution of the source data (e.g., 5km, 30", 0.5°...)
--`temporal coverage`: Temporal coverage/extent of the source data (what range of years are available?)
--`temporal resolution`: Temporal resolution of the source data (e.g., daily, monthly, annual...)
--`reference`: Link to the index reference/paper/doi (e.g., "https://doi.org/10.1080/17538947.2024.2390454")
--`examples`: Link to relevant applications using the data (optional)
+- `theme`: Broad category of variable
+- `name`: Variable name
+- `source`: Data source
+- `description`: Precise description of the variable
+- `units`: Units of measurement for the variable
+- `spatial coverage`: Spatial coverage of source data (what countries?)
+- `spatial resolution`: Spatial resolution of the source data (e.g., 5km, 30", 0.5°...)
+- `temporal coverage`: Temporal coverage/extent of the source data (what range of years are available?)
+- `temporal resolution`: Temporal resolution of the source data (e.g., daily, monthly, annual...)
+- `reference`: Link to the index reference/paper/doi (e.g., "https://doi.org/10.1080/17538947.2024.2390454")
+- `examples`: Link to relevant applications using the data (optional)
 
 ### GMD Spatial
 The World Bank's Global Monitoring Database (GMD) now includes harmonized variables describing the location and spatial context of interviewed households. 
@@ -41,13 +41,13 @@ We describe common steps to process or analyse spatial data.
 The initial focus is on generic tasks that can be adapted for specific use cases and inputs.
 All methods are described using the following schema for ease of use and discovery:
 
--`type`: Type of method (e.g. Aggregation)
--`name`: Name of method (e.g. Zonal statistics)
--`description`: "Description of what the method does"
--`input`: "What inputs are required?"
--`output`: "What is the output?"
+- `type`: Type of method (e.g. Aggregation)
+- `name`: Name of method (e.g. Zonal statistics)
+- `description`: "Description of what the method does"
+- `input`: "What inputs are required?"
+- `output`: "What is the output?"
 - `reprex`: "Reproducible code, with sample data (R and/or Stata)"
--`question`: "What is a (policy) question this method/example could answer?"
+- `question`: "What is a (policy) question this method/example could answer?"
 
 ## Do you want to contribute?
 The easiest way to contribute to the list or make a request is to [open an issue on Github](https://github.com/wbpovgeo/povGeoData/issues).
