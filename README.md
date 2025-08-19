@@ -26,9 +26,9 @@ The World Bank's Global Monitoring Database (GMD) now includes harmonized variab
 Locations in surveys were mapped to a discrete global grid system (H3 hexagons). 
 This is used as a key to merge geospatial data from other sources.
 
--The LOC module describes the type of location information available from the household survey.
--The H3 module maps interview locations to the global grid system.
--The SPAT module provides location and time matched spatial variables.
+- The LOC module describes the type of location information available from the household survey.
+- The H3 module maps interview locations to the global grid system.
+- The SPAT module provides location and time matched spatial variables.
 
 The survey merged geo-variables currently available from GMD are listed [here](). 
 In addition to the attributes above, this describes how the source data was aggregated to the spatial units in the survey. 
