@@ -2,7 +2,7 @@
 
 Welcome to the curated repository of spatial data and methods relevant to the work of World Bank poverty economists.
 
-**[[data]]a** sources and indicators are listed by theme with important attributes, simple instructions to access each data source and existing applications.
+**[[data]]** sources and indicators are listed by theme with important attributes, simple instructions to access each data source and existing applications.
 
 **[[Methods]]** to perform basic analysis tasks are listed by type with reproducible examples. 
 
