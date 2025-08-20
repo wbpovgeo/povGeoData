@@ -15,13 +15,14 @@ jobs:
       - name: Install website dependencies
         run: npm install
         working-directory: _layouts
+        
       - name: Build website
         run: npm run build -- --prefix-paths
         working-directory: _layouts
 
       - name: Deploy to the gh-pages branch
         # only deploy when the main branch has some changes
-        if: github.ref == 'refs/heads/master'
+        if: github.ref == 'refs/heads/layout-experiments'
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
