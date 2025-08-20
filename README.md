@@ -1,4 +1,4 @@
-# povGeoData
+# povGeoData 
 
 Welcome to the curated repository of spatial data and methods relevant to the work of World Bank poverty economists.
 
