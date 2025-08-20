@@ -6,9 +6,7 @@ Welcome to the curated repository of spatial data and methods relevant to the wo
 
 **[[Methods]]** to perform basic analysis tasks are listed by type with reproducible examples. 
 
-## [[index]]
-
-Provides a structure overview of the repository's content.
+To get in pore details about it, start with the [[index]] page, which provides an overview of the repository's content.
 
 ## Data sources
 We focus on spatial indicators and data sources that are useful for welfare analysis, easy to construct or access and are well documented. 
