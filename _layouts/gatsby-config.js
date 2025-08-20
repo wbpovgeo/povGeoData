@@ -64,7 +64,7 @@ module.exports = {
       },
       options: {
         source: path.resolve(__dirname, `../docs`),
-        destination: '/docs',
+        destination: '/',
         purge: false,
       },
     },
